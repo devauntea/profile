@@ -5,7 +5,53 @@ body{
 	color: #FFFFFF;
 	font-family: 'VT323', monospace;
 	background-image: url(comput.gif);
-	font-high: ;
 
 
 }
+
+div{
+	font-family: 'Libre Barcode 128 Text', cursive;
+	font-size: 2em;
+}
+
+ul{
+	background-color: #FFFFFF;
+}
+
+strong{
+}
+
+p{
+	background-color: black;
+}
+
+
+h2{
+	font-size: 1.75em
+}
+h3{
+	font-size: 1.75em
+}
+h4{
+	font-size: 1.75em
+}
+h5{
+	font-size: 1.75em
+}
+h6{
+	font-size: 1.75em
+}
+
+head{
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+header{
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+small{
+	font-size: .60em
+}
+
+
+
