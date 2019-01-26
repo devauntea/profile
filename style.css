@@ -10,7 +10,7 @@ body{
 }
 
 div{
-	font-family: 'Libre Barcode 128 Text', cursive;
+	font-family: 'Righteous', cursive;
 	font-size: 2em;
 }
 
@@ -21,8 +21,14 @@ ul{
 strong{
 }
 
-p{
-	background-color: black;
+mark{
+	background-color: black; 
+	color: #FFFFFF;
+}
+
+header{
+	background-image: url("head.jpg");
+ 	background-color: #cccccc;
 }
 
 
@@ -47,6 +53,7 @@ head{
 }
 header{
 	font-family: 'ZCOOL KuaiLe', cursive;
+	color: black;
 }
 
 small{
@@ -54,4 +61,8 @@ small{
 }
 
 
+ul{
+	display: inline;
+}
 
+ul.solid {border-style: solid;}
